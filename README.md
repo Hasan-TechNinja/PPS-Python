@@ -1,2 +1,2 @@
 # PPS-Python
-URI problem solving using Python 
+URI problem solving with Python 
